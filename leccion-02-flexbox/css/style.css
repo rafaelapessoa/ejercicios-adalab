@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    
+}
+.caja1{
+    background-color: brown;
+}
+.caja2{
+    background-color: blue;
+}
+.caja3{
+    background-color: blueviolet;
+}
